@@ -24,6 +24,8 @@ A modern, responsive **Weather App** that allows users to check the weather for 
 
 ![Weather App Screenshot](screenshot.png)
 
+Live Link to Project : https://67b6d3d8929937882bb6bdc6--incredible-cat-38fbe1.netlify.app/ 
+
 ## 📩 Contact
 
 Developed by **Inamul**
